@@ -1,4 +1,4 @@
-##La plebi-tusa
+## La plebi-tusa
 
 Pequeña exploración los resultados del Plebiscito de Octubre 2 de 2016 en Colombia. 
 
